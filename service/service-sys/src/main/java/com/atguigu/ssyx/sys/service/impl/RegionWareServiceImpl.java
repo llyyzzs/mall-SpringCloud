@@ -2,6 +2,7 @@ package com.atguigu.ssyx.sys.service.impl;
 
 import com.atguigu.ssyx.common.exception.SsyxException;
 import com.atguigu.ssyx.common.result.ResultCodeEnum;
+import com.atguigu.ssyx.model.sys.Region;
 import com.atguigu.ssyx.model.sys.RegionWare;
 import com.atguigu.ssyx.sys.mapper.RegionWareMapper;
 import com.atguigu.ssyx.sys.service.RegionWareService;
@@ -12,6 +13,8 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
+
+import java.util.List;
 
 /**
  * <p>
@@ -67,5 +70,11 @@ public class RegionWareServiceImpl extends ServiceImpl<RegionWareMapper, RegionW
         RegionWare regionWare = baseMapper.selectById(id);
         regionWare.setStatus(status);
         baseMapper.updateById(regionWare);
+    }
+    @Override
+    public List<RegionWare> findAllList(String showLoading) {
+        LambdaQueryWrapper<RegionWare> wrapper = new LambdaQueryWrapper<>();
+        List<RegionWare> list = baseMapper.selectList(wrapper);
+        return list;
     }
 }

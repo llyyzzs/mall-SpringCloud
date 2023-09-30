@@ -5,11 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48a7c49c-36a6-4f01-be9a-ba5b84cf7bc0" name="更改" comment="尚硅谷">
+      <change afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/api/AddressApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d03ed04e-a28d-4806-9ccf-918aba39838c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d03ed04e-a28d-4806-9ccf-918aba39838c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/auth/UserLoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/auth/UserLoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/auth/UserLoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/auth/UserLoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedissonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedissonConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/Swagger2Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-gateway/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-activity/src/main/java/com/atguigu/ssyx/activity/api/ActivityInfoApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-activity/src/main/java/com/atguigu/ssyx/activity/api/ActivityInfoApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-activity/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-activity/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-gateway/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/atguigu/ssyx/acl/config/WebMvcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/src/main/java/com/atguigu/ssyx/acl/config/WebMvcConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-acl/target/classes/com/atguigu/ssyx/acl/config/WebMvcConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/atguigu/ssyx/acl/config/WebMvcConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-activity/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-activity/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-activity/target/classes/com/atguigu/ssyx/activity/api/ActivityInfoApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-activity/target/classes/com/atguigu/ssyx/activity/api/ActivityInfoApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-cart/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-cart/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-order/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-payment/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-payment/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-payment/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-payment/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/target/classes/com/atguigu/ssyx/product/api/ProductInnnerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/target/classes/com/atguigu/ssyx/product/api/ProductInnnerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-search/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-search/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-search/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-search/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-search/target/classes/com/atguigu/ssyx/search/controller/SkuApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-search/target/classes/com/atguigu/ssyx/search/controller/SkuApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionWareService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionWareService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/RegionWareService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/RegionWareService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-user/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-user/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-user/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-user/target/classes/application-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,45 +72,51 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.4.1/mybatis-plus-extension-3.4.1.jar!/com/baomidou/mybatisplus/extension/service/IService.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/controller/RegionWareController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NRKoLJ80d9tYjORWCceFp7jpBZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/桌面/大三/下/springboot/guigu-ssyx-main/guigu-ssyx-parent",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "service.view.auto.scroll.from.source": "true",
-    "settings.editor.selected.configurable": "vcs.Perforce",
-    "spring.configuration.checksum": "fa8dbf3a128662fa40c15f7a27ca43eb",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/桌面/大三/下/springboot/mall-swarm-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;service.view.auto.scroll.from.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Perforce&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fa8dbf3a128662fa40c15f7a27ca43eb&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -84,6 +129,7 @@
       <recent name="C:\Users\Administrator\Desktop\ssyx-project\code\guigu-ssyx-parent\service\service-product\src\main\resources\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.ssyx.sys.api" />
       <recent name="com.atguigu.ssyx" />
       <recent name="demo" />
     </key>
@@ -100,9 +146,41 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceGatewayApplication">
-    <configuration name="generated-requests | #9" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="9" requestIdentifier="#9" runType="运行单个请求">
+  <component name="RunManager" selected="HTTP 请求.generated-requests | #18">
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.ssyx.common.utils.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ssyx.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #16" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="16" requestIdentifier="#16" runType="运行单个请求">
       <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #17" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="17" requestIdentifier="#17" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #18" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="18" requestIdentifier="#18" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mall-cloud" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="mall-cloud" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-acl" />
@@ -188,7 +266,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="HTTP 请求.generated-requests | #9" />
+      <item itemvalue="HTTP 请求.generated-requests | #16" />
+      <item itemvalue="HTTP 请求.generated-requests | #17" />
+      <item itemvalue="HTTP 请求.generated-requests | #18" />
       <item itemvalue="Spring Boot.ServiceActivityApplication" />
       <item itemvalue="Spring Boot.ServiceCartApplication" />
       <item itemvalue="Spring Boot.ServiceHomeApplication" />
@@ -200,11 +280,15 @@
       <item itemvalue="Spring Boot.ServiceSysApplication" />
       <item itemvalue="Spring Boot.ServiceGatewayApplication" />
       <item itemvalue="Spring Boot.ServiceSearchApplication" />
+      <item itemvalue="应用程序.JwtHelper" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ServiceSearchApplication" />
-        <item itemvalue="HTTP 请求.generated-requests | #9" />
+        <item itemvalue="HTTP 请求.generated-requests | #18" />
+        <item itemvalue="HTTP 请求.generated-requests | #17" />
+        <item itemvalue="HTTP 请求.generated-requests | #16" />
+        <item itemvalue="应用程序.JwtHelper" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +356,14 @@
       <workItem from="1690345890564" duration="2893000" />
       <workItem from="1690364286743" duration="3856000" />
       <workItem from="1690425450185" duration="1684000" />
-      <workItem from="1691152620992" duration="2019000" />
+      <workItem from="1691152620992" duration="9746000" />
+      <workItem from="1691372683714" duration="2585000" />
+      <workItem from="1691416573306" duration="5802000" />
+      <workItem from="1691457761169" duration="7982000" />
+      <workItem from="1691476770992" duration="7758000" />
+      <workItem from="1691484787189" duration="3680000" />
+      <workItem from="1691543506456" duration="576000" />
+      <workItem from="1696083560150" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="尚硅谷">
       <created>1690346486449</created>
@@ -281,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690346486449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="尚硅谷">
+      <created>1691294634325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691294634325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

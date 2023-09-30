@@ -14,6 +14,7 @@ public class UserLoginInterceptor implements HandlerInterceptor {
 
     private RedisTemplate redisTemplate;
     public UserLoginInterceptor(RedisTemplate redisTemplate) {
+
         this.redisTemplate = redisTemplate;
     }
 

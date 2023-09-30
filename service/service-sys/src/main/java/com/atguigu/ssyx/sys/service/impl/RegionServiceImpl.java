@@ -28,4 +28,6 @@ public class RegionServiceImpl extends ServiceImpl<RegionMapper, Region> impleme
         List<Region> list = baseMapper.selectList(wrapper);
         return list;
     }
+
+
 }

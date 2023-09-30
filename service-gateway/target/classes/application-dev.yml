@@ -11,7 +11,7 @@ spring:
         - id: service-acl
           uri: lb://service-acl
           predicates:
-            - Path=/*/acl/**
+            - Path= /*/acl/**
 
         - id: service-sys
           uri: lb://service-sys
