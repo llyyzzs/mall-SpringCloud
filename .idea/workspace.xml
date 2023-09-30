@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48a7c49c-36a6-4f01-be9a-ba5b84cf7bc0" name="更改" comment="尚硅谷">
-      <change afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/api/AddressApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d03ed04e-a28d-4806-9ccf-918aba39838c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d03ed04e-a28d-4806-9ccf-918aba39838c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/auth/UserLoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/auth/UserLoginInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/RedissonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/ssyx/common/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/auth/UserLoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/auth/UserLoginInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedisConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedissonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/RedissonConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/target/classes/com/atguigu/ssyx/common/config/Swagger2Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-gateway/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-gateway/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-gateway/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/java/com/atguigu/ssyx/acl/config/WebMvcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/src/main/java/com/atguigu/ssyx/acl/config/WebMvcConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-acl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-acl/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-acl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-acl/target/classes/com/atguigu/ssyx/acl/config/WebMvcConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-acl/target/classes/com/atguigu/ssyx/acl/config/WebMvcConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-activity/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-activity/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-activity/target/classes/com/atguigu/ssyx/activity/api/ActivityInfoApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-activity/target/classes/com/atguigu/ssyx/activity/api/ActivityInfoApiController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-cart/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-cart/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-order/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-payment/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-payment/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-payment/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-payment/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-product/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-product/target/classes/com/atguigu/ssyx/product/api/ProductInnnerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/target/classes/com/atguigu/ssyx/product/api/ProductInnnerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-search/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-search/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-search/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-search/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-search/target/classes/com/atguigu/ssyx/search/controller/SkuApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-search/target/classes/com/atguigu/ssyx/search/controller/SkuApiController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionWareService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/RegionWareService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/src/main/java/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/RegionWareService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/RegionWareService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-sys/target/classes/com/atguigu/ssyx/sys/service/impl/RegionWareServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-user/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-user/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-user/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-user/target/classes/application-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="48a7c49c-36a6-4f01-be9a-ba5b84cf7bc0" name="更改" comment="商城" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,7 +318,7 @@
       <workItem from="1691476770992" duration="7758000" />
       <workItem from="1691484787189" duration="3680000" />
       <workItem from="1691543506456" duration="576000" />
-      <workItem from="1696083560150" duration="313000" />
+      <workItem from="1696083560150" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="尚硅谷">
       <created>1690346486449</created>
@@ -379,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691294634325</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="商城">
+      <created>1696083930200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696083930200</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +366,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="尚硅谷" />
-    <option name="LAST_COMMIT_MESSAGE" value="尚硅谷" />
+    <MESSAGE value="商城" />
+    <option name="LAST_COMMIT_MESSAGE" value="商城" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
